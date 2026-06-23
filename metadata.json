@@ -1,0 +1,6 @@
+{
+  "name": "ज्ञान विजन एआई",
+  "description": "A premium dark-themed AI learning app for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
